@@ -1,6 +1,6 @@
 my_array=["board"]
 board = [ 1, 2, 3, 4, 5, 6, 7, 8, 9]
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Position 1: Left
 row[0]
 # Position 2: Middle
