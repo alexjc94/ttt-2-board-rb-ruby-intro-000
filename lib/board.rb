@@ -1,5 +1,5 @@
 my_array=["board"]
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Position 1: Left
 row[0]
 # Position 2: Middle
